@@ -20,4 +20,7 @@ Controls
 - ESC: quit
 
 Notes
-- The game uses `pygame` and runs in a window. If you don't have `pygame` installed, use the `pip` command above.
+- The game uses `pygame` and runs in a window. If you don't have `pygame` installed, use the `pip` command: 
+```bash
+pip install pygame
+```
